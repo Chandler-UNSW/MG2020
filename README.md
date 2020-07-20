@@ -1,6 +1,6 @@
 # MG2020
-Code adapted from https://github.com/djmv/MobilNet_SSD_opencv to achieve object decetion using the SSD MobileNet model.
-This model potentially offers advantages over YoloV3. It is also trained on the COCO dataset (although the code needs
+Code adapted from https://github.com/djmv/MobilNet_SSD_opencv to achieve object detection using the SSD MobileNet model.
+This model potentially offers advantages over YoloV3. It is also trained on the COCO dataset (alsthough the code needs
 to be adjusted to detect sports balls).
 
 To run the file you can use:
