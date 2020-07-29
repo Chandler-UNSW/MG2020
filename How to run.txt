@@ -1,0 +1,8 @@
+How to run files
+Need to run command on cmd and the codes are pretty much all setup on this Git Hub
+https://github.com/theAIGuysCode/tensorflow-yolov4-tflite
+
+He also made a youtube tutorial to explain it
+https://www.youtube.com/watch?v=iPwepy-SVCQ&t=655s
+
+if theres any question let me knoww
